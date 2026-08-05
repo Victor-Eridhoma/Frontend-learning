@@ -1,0 +1,87 @@
+  .Tahoma-text {
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  .biggest-text {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+    width: 250px;
+    margin-top: 0;
+    margin-bottom: 5px;
+  }
+  .Sales-end-tuesday {
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    color: rgb(236, 49, 49);
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .html-css {
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 18px;
+    width: 200px;
+    margin-bottom: 5px;
+    margin-top: 0;
+  }
+
+  .beginner-to-pro {
+  font-size: 14px;
+  color: rgb(157, 156, 156);
+  font-style: normal;
+  font-weight: normal;
+  margin-bottom: 20px;
+  margin-top: 0;
+  }
+
+  .text-body {
+    font-family: Verdana;
+    font-size: 14px;
+    width: 250px;
+    margin-top: 0;
+    line-height: 18px;
+    margin-bottom: 20px;
+  }
+
+  .get-started-button {
+    background-color: green;
+    border: none;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+
+  .shopping-text {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .apple-text {
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .learn-more {
+    font-family: Arial;
+    color: rgb(91, 91, 244);
+    font-size: 12px;
+    text-align: center;
+    cursor: pointer;
+  }

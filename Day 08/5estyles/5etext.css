@@ -1,0 +1,107 @@
+  p {
+  font-family: Arial;
+  text-align: center;
+  }
+
+.new-text {
+  font-family: Arial;
+  color: red;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+.macbook-pro {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+
+.supercharged-text {
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.age-text {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.buy-button {
+  background-color: rgb(100, 100, 255);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 615px;
+  margin-bottom: 20px;
+}
+
+.number-text {
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+.USD {
+  color: grey;
+  font-size: 12px;
+}
+.plus-text {
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  text-align: left;
+  color: rgb(49, 147, 49);
+}
+.after-text {
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-align: left;
+  color: grey;
+}
+.percents {
+  color: rgb(252, 54, 54);
+}
+.free-code {
+  font-weight: bold;
+  text-align: left;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.free-span {
+  color: grey;
+  font-weight: normal;
+}
+.text-body {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  width: 400px;
+  text-align: left;
+}
+.here-text {
+  font-size: 12px;
+  margin-top: 0px;
+  text-align: left;
+}
+.at-span {
+  color: rgb(147, 147, 255);
+  cursor: pointer;
+}

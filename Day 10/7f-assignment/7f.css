@@ -1,0 +1,30 @@
+ .email {
+        margin-bottom: 5px;
+        margin-top: 0px;
+        color: rgb(135, 134, 134);
+        font-size: 12px;
+      }
+      .search-box {
+        width: 200px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        border-width: 1px;
+      }   
+      .terms-and-condition {
+       color: rgb(135, 134, 134);
+       margin-top: 0px;
+       margin-bottom: 10px;
+       font-size: 12px;
+      }
+      .join-button { color: white;
+        background-color: rgb(10, 102, 194);
+        font-size: 12px;
+        font-weight: bold;
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        border-radius: 18px;
+        border: none;
+        cursor: pointer;
+      }
