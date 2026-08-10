@@ -1,0 +1,11 @@
+.text-edits {
+  width: 200px;
+  vertical-align: middle;
+  display: inline-block;
+  margin-right: 5px;
+}
+.yes-button,
+.no-button {
+  vertical-align: middle;
+  display: inline-block;
+}
