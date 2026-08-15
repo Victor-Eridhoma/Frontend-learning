@@ -1,0 +1,8 @@
+.text-button {
+       border-width: 1px;
+       border-style: solid;
+       width: 300px;
+       padding-bottom: 12px;
+       padding-left: 16px;
+       padding-right: 16px;
+ }
