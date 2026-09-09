@@ -1,0 +1,73 @@
+ div {
+        font-family: Arial;
+      }
+      .container {
+        margin-top: 10px;
+        margin-left: 20px;
+        display: flex;
+        flex-direction: row;
+        width: 420px;
+      }
+
+      .picture-container {
+        margin-right: 10px;
+      }
+
+      .cat-picture {
+        object-fit: cover;
+        height: 50px;
+        width: 50px;
+        border-radius: 25px;
+      }
+
+      .info-container {
+        flex: 1;
+        
+      }
+      
+      .supersimple {
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+      
+      .super-simple {
+        color: grey;
+        font-weight: 100;
+      }
+
+      .backend-text {
+        line-height: 20px;
+        margin-bottom: 15px;
+      }
+
+      .semi-container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 10px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(200, 200, 200);
+        border-radius: 15px;
+        overflow: hidden;
+      }
+
+      .empty-grey {
+        height: 100px;
+        background-color: rgb(200, 200, 200);
+        width: 100px;
+        margin-right: 10px;
+      }
+
+      .youtube-container {
+        flex: 1;
+      }
+
+      .youtube-text {
+        color: rgb(200, 200, 200);
+        margin-bottom: 3px;
+      }
+
+      .video-title {
+        line-height: 22px;
+      }
