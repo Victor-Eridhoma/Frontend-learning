@@ -1,0 +1,42 @@
+      body {
+        height: 3000px;
+        font-family: Arial;
+      }
+      .cover {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        position: fixed;
+        right: 0;
+        left: 0;
+        top: 0;
+        bottom: 0;
+      }
+      .modal {
+        width: 300px;
+        background-color: white;
+        padding-top: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        border-radius: 5px;
+      }
+      .right-sidebar {
+       background-color: green;
+       color: white;
+       position: fixed;
+       right: 0;
+       top: 0;
+       bottom: 0;
+       width: 100px;
+      }
+      .title {
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 12px;
+
+      }
+      .modal-content {
+        margin-bottom: 12px;
+      }

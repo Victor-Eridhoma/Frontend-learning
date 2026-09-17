@@ -1,0 +1,63 @@
+      body {
+        font-family: Arial;
+        height: 3000px;
+
+      }
+
+      .header {
+        background-color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 700px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding-top: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 10px;
+      }
+
+      .profile-picture {
+         object-fit: cover;
+         height: 50px;
+         width: 50px;
+         border-radius: 25px;
+         margin-right: 12px;
+      }
+
+      .oliver-cat {
+        font-weight: bold; 
+      }
+
+      .profile-info {
+       display: flex;
+       align-items: center;
+        }
+        
+      .add-button {
+        background-color: rgb(24, 199, 242);
+        color: white;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-weight: bold;
+        border: none;
+        border-radius: 4px;
+        margin-right: 5px;
+      }
+      
+      .message-button {
+        background-color: rgb(230, 230, 230);
+        color: white;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-weight: bold;
+        border: none;
+        border-radius: 4px;
+      }
