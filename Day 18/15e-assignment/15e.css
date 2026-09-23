@@ -1,0 +1,27 @@
+      body {
+        height: 3000px;
+      }
+
+      .relative-container {
+        position: relative;
+        display: inline-block;
+      }
+
+      .shirt-picture {
+        object-fit: cover;
+        height: 300px;
+        width: 300px;
+      }
+
+      .percentages {
+        position: absolute;
+        top: 10px;
+        right: 0;
+        background-color: black;
+        color: white;
+        font-family: Arial;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
+      }
